@@ -6,11 +6,7 @@ display_name: Alex Rako
 position: The One
 bio: Fan de football et de visualisations de données
 github_username: Rako75
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+linkedin_username: Alex Rakotomalala
 ---
 
 
